@@ -34,3 +34,7 @@ Before you generate a full file, decode a few frames learned from your own remot
 ## Tested
 
 On the SPIS412L with a Broadlink RM: cool 22 °C fan high, dry 24 °C, fan_only high with and without the display bit, and off all behave as labelled. Fan levels and swing off were confirmed on the unit. Every generated frame decodes back to its label with a valid checksum.
+
+---
+
+By [Pierre Bastiani](https://pierre.kensae.com).
